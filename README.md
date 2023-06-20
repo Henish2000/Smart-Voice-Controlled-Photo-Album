@@ -4,4 +4,4 @@ This is a photo album web application that is deployed on AWS. The application s
 
 # Architecture 
 
-![alt text](https://github.com/Henish2000/Smart-Voice-Controlled-Photo-Album/Architecture/Capture.JPG?raw=true)
+![alt text](https://github.com/Henish2000/Smart-Voice-Controlled-Photo-Album/Architecture/Capture.JPG)
